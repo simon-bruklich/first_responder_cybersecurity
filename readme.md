@@ -1,0 +1,1 @@
+This website was created for a project completed in ENGW3302: Advanced Writing in the Technical Professions at Northeastern University for the Fall 2021 semester. The views expressed on this website do not necessarily correspond to my own beliefs.
