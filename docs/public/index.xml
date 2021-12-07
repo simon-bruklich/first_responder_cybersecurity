@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on Simon Bruklich</title>
+    <link>https://simon-bruklich.github.io/first_responder_cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Simon Bruklich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Dec 2021 23:59:55 -0500</lastBuildDate>
+    
+	<atom:link href="https://simon-bruklich.github.io/first_responder_cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Invisible Threat</title>
+      <link>https://simon-bruklich.github.io/first_responder_cybersecurity/posts/fleet/</link>
+      <pubDate>Sun, 05 Dec 2021 12:54:34 -0500</pubDate>
+      
+      <guid>https://simon-bruklich.github.io/first_responder_cybersecurity/posts/fleet/</guid>
+      <description>Behind every first responder is their trusty workhorse: the rugged Chevy Silverado Ambulance, the iconic Rev Group Ladder Tower, and the legendary Ford Crown Victoria and Explorer police interceptors. These vehicles — built in the United State — are themselves every bit as American as the counties they serve. Emergency services in the United States trust American-made vehicles for two reasons: their dependable durability and reliability. These two qualities enable first responders to operate optimally in a wide variety of adverse conditions and situations.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://simon-bruklich.github.io/first_responder_cybersecurity/references/</link>
+      <pubDate>Fri, 03 Dec 2021 23:59:55 -0500</pubDate>
+      
+      <guid>https://simon-bruklich.github.io/first_responder_cybersecurity/references/</guid>
+      <description>(2015)   &amp;#32; (2015). &amp;#32;Hackers Remotely Kill a Jeep on a Highway | WIRED. &amp;#32;Retrieved from&amp;#32; https://www.youtube.com/watch?v=MK0SrxBC1xs    (N.A.) (n.d.)  (N.A.). (s.d.).&amp;#32;Retrieved from&amp;#32; https://www.markey.senate.gov/news/press-releases/senators-markey-and-blumenthal-demand-nhtsa-proactively-address-the-cyber-risks-of-internet-connected-cars    (N.A.) (2015)  (N.A.). &amp;#32; (2015). &amp;#32;Fiat Chrysler Hack Risk Kept From Regulators for 18 Months. &amp;#32;Retrieved from&amp;#32; https://www.bloomberg.com/news/articles/2015-08-05/fiat-chrysler-hacking-risk-kept-from-regulators-for-18-months    (N.A.) (2015)  (N.A.).(2015,&amp;#32;11/4).&amp;#32;Retrieved from&amp;#32; https://web.archive.org/web/20151104144618/http://www.bloomberg.com/news/articles/2015-08-05/fiat-chrysler-hacking-risk-kept-from-regulators-for-18-months    Sullivan (2019)  Sullivan,&amp;#32; A. &amp;#32; (2019).</description>
+    </item>
+    
+    <item>
+      <title>Context Note</title>
+      <link>https://simon-bruklich.github.io/first_responder_cybersecurity/context_note/</link>
+      <pubDate>Wed, 24 Nov 2021 23:59:55 -0500</pubDate>
+      
+      <guid>https://simon-bruklich.github.io/first_responder_cybersecurity/context_note/</guid>
+      <description>Simon Bruklich
+December 8, 2021
+ENGW 3302: Section 13
+Professor Christens Enos
+This document will be a blog post hosted on a scalable hosting service like GitHub Pages so that it can be easily shared and accessed anywhere in the United States. The audience of this post is first responders, and the purpose of this post is to generate awareness and interest regarding the lacking cybersecurity affecting the fleets of emergency services across the nation; the post will conclude with a call to action that advises first responders to leverage their unions, fleet managers, and unique position in society in order to incentivize automakers to prioritize cybersecurity in their vehicles.</description>
+    </item>
+    
+  </channel>
+</rss>
